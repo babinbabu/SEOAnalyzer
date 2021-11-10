@@ -1,0 +1,9 @@
+C:\Users\bbabu26\Downloads\SEOAnalyzer-master (1)\SEOAnalyzer-master\WordCounter\bin\Debug\WordCounter.dll
+C:\Users\bbabu26\Downloads\SEOAnalyzer-master (1)\SEOAnalyzer-master\WordCounter\bin\Debug\WordCounter.pdb
+C:\Users\bbabu26\Downloads\SEOAnalyzer-master (1)\SEOAnalyzer-master\WordCounter\bin\Debug\HtmlAgilityPack.dll
+C:\Users\bbabu26\Downloads\SEOAnalyzer-master (1)\SEOAnalyzer-master\WordCounter\bin\Debug\HtmlAgilityPack.xml
+C:\Users\bbabu26\Downloads\SEOAnalyzer-master (1)\SEOAnalyzer-master\WordCounter\obj\Debug\WordCounter.csproj.AssemblyReference.cache
+C:\Users\bbabu26\Downloads\SEOAnalyzer-master (1)\SEOAnalyzer-master\WordCounter\obj\Debug\WordCounter.csproj.CoreCompileInputs.cache
+C:\Users\bbabu26\Downloads\SEOAnalyzer-master (1)\SEOAnalyzer-master\WordCounter\obj\Debug\WordCounter.csproj.CopyComplete
+C:\Users\bbabu26\Downloads\SEOAnalyzer-master (1)\SEOAnalyzer-master\WordCounter\obj\Debug\WordCounter.dll
+C:\Users\bbabu26\Downloads\SEOAnalyzer-master (1)\SEOAnalyzer-master\WordCounter\obj\Debug\WordCounter.pdb

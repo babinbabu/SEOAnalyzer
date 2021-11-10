@@ -1,0 +1,12 @@
+C:\Users\bbabu26\Downloads\SEOAnalyzer-master (1)\SEOAnalyzer-master\SEOAnalyzer\bin\SEOAnalyzer.dll.config
+C:\Users\bbabu26\Downloads\SEOAnalyzer-master (1)\SEOAnalyzer-master\SEOAnalyzer\bin\SEOAnalyzer.dll
+C:\Users\bbabu26\Downloads\SEOAnalyzer-master (1)\SEOAnalyzer-master\SEOAnalyzer\bin\SEOAnalyzer.pdb
+C:\Users\bbabu26\Downloads\SEOAnalyzer-master (1)\SEOAnalyzer-master\SEOAnalyzer\bin\WordCounter.dll
+C:\Users\bbabu26\Downloads\SEOAnalyzer-master (1)\SEOAnalyzer-master\SEOAnalyzer\bin\HtmlAgilityPack.dll
+C:\Users\bbabu26\Downloads\SEOAnalyzer-master (1)\SEOAnalyzer-master\SEOAnalyzer\bin\WordCounter.pdb
+C:\Users\bbabu26\Downloads\SEOAnalyzer-master (1)\SEOAnalyzer-master\SEOAnalyzer\bin\HtmlAgilityPack.xml
+C:\Users\bbabu26\Downloads\SEOAnalyzer-master (1)\SEOAnalyzer-master\SEOAnalyzer\obj\Debug\SEOAnalyzer.csproj.AssemblyReference.cache
+C:\Users\bbabu26\Downloads\SEOAnalyzer-master (1)\SEOAnalyzer-master\SEOAnalyzer\obj\Debug\SEOAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\bbabu26\Downloads\SEOAnalyzer-master (1)\SEOAnalyzer-master\SEOAnalyzer\obj\Debug\SEOAnalyzer.csproj.CopyComplete
+C:\Users\bbabu26\Downloads\SEOAnalyzer-master (1)\SEOAnalyzer-master\SEOAnalyzer\obj\Debug\SEOAnalyzer.dll
+C:\Users\bbabu26\Downloads\SEOAnalyzer-master (1)\SEOAnalyzer-master\SEOAnalyzer\obj\Debug\SEOAnalyzer.pdb
